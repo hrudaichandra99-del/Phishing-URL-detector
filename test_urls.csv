@@ -1,0 +1,7 @@
+url,label
+https://www.google.com,benign
+https://www.wikipedia.org/wiki/Computer_security,benign
+https://example-malicious.test/login/verify,suspicious-demo
+http://192.0.2.10/account/verify,suspicious-demo
+https://secure-login-example.test/password/update,suspicious-demo
+https://www.python.org/downloads/,benign
